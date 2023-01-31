@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Daniel
-- 👀 I’m interested in wahatever I can learn and understand
-- 🌱 I’m currently studying in University for IT
+
 - 📫You can send me an email on: mirondany13@gmail.com
 
 <!---
