@@ -1,5 +1,5 @@
 
-- 📫You can send me an email on: mirondany13@gmail.com
+- 📫Mail me on: mirondany13@gmail.com
 
 <!---
 Dan4ik7/Dan4ik7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
